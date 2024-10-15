@@ -19,6 +19,7 @@ The dataset consists of three files:
 - `train_data.txt`: Contains the training data with movie titles, genres, and plot summaries.
 - `test_data.txt`: Contains the testing data with movie titles, genres, and plot summaries.
 - `test_data_solution.txt`: Contains the true genre labels for the test data.
+- Dataset from Kaggle : https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 
 Each entry in the dataset follows this format: ID ::: Title ::: Genre ::: Plot Summary
 
